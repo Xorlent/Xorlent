@@ -3,7 +3,7 @@
 <p align="center">
   <b>Cybersecurity practitioner &amp; Electrical engineer</b><br/>
   I build low-cost, open hardware security appliances and ESP32/Arduino firmware that solve
-  real-world problems. Most of my repos are novel (or free-vs-paid) solutions I needed myself.
+  real-world problems.
 </p>
 
 <p align="center">
